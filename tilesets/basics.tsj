@@ -1,0 +1,14 @@
+{ "columns":25,
+ "image":"..\/src\/assets\/WA_Room_Builder.png",
+ "imageheight":1280,
+ "imagewidth":800,
+ "margin":0,
+ "name":"basics",
+ "spacing":0,
+ "tilecount":1000,
+ "tiledversion":"1.8.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}
